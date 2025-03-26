@@ -6,7 +6,7 @@ I love computers.<br>
 <hr>
 
 <a href="https://github.com/rosa479">
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rosa479&layout=compact&langs_count=8&theme=material-palenight"/>
+<img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rosa479&layout=compact&langs_count=8&theme=material-palenight"/>
 </a>
 <a href="https://github.com/rosa479">
 <img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rosa479&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" align="right"/>
